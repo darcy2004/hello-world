@@ -49,7 +49,7 @@
             this.txtBxName.Name = "txtBxName";
             this.txtBxName.Size = new System.Drawing.Size(100, 20);
             this.txtBxName.TabIndex = 1;
-            this.txtBxName.Text = "Name1";
+            this.txtBxName.Text = "whats your name?";
             // 
             // txtBxName2
             // 
@@ -57,7 +57,7 @@
             this.txtBxName2.Name = "txtBxName2";
             this.txtBxName2.Size = new System.Drawing.Size(100, 20);
             this.txtBxName2.TabIndex = 2;
-            this.txtBxName2.Text = "Name2";
+            this.txtBxName2.Text = "im darcy!";
             this.txtBxName2.TextChanged += new System.EventHandler(this.TxtBxName2_TextChanged);
             // 
             // Form1
